@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @GuyHale
 - 👀 I’m interested in blockchain and everything to do with programming!
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning react.js to complete the MERN stack.
 - 💞️ I’m looking to collaborate on nothing right now!
 - 📫 How to reach me: email - hale_guy@outlook.com
 
