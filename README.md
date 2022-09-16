@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+in+love+with+coding&size=30&color=DE3163&center=true;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+code&size=30&color=DE3163&center=true;)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @GuyHale
 - 👀 I’m interested in blockchain and everything to do with programming!
