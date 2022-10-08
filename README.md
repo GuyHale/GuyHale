@@ -6,7 +6,7 @@
 ### <div align="center">I'm Guy, a postgraduate student at the King's College of London studying an MSc in Advanced computing 👨‍💻 </div>  
   
 
-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+code&size=30&color=DE3163&center=true;)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+code&size=30&color=DE3163&center=true;)](https://git.io/typing-svg)  
   
 
 - 🌱 I’m currently learning cryptography, assembly code and data structures & algorithms  
