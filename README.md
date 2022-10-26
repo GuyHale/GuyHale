@@ -3,13 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Guy, a postgraduate student at the King's College of London studying an MSc in Advanced computing 👨‍💻 </div>  
+### <div align="center"> Hello, my name is Guy Hale, and I am a graduate software engineer @ Clover LTD 👨‍💻 </div>  
+
+<br>
+<br>
   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+code&size=30&color=DE3163&center=true;)](https://git.io/typing-svg)  
   
 
-- 🌱 I’m currently learning cryptography, assembly code and data structures & algorithms  
+- 🌱 I’m currently using .NET and blazor web assembly in a full-stack style role.
   
 
 - ⚡ Fun fact: I am a part-time drum & bass Dj.  
